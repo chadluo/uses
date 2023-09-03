@@ -1,6 +1,4 @@
-# Uses
-
-Inspired by https://uses.tech/
+Inspired by [uses.tech](https://uses.tech/)
 
 ## Software
 
@@ -41,3 +39,4 @@ Inspired by https://uses.tech/
 - [Roost Stand](https://www.therooststand.com/)
 - [Sony SRS-X77](https://www.sony.com.au/electronics/support/speakers-wireless-speakers/srs-x77)
 - [Sony WI-1000X](https://www.sony.com.au/electronics/support/wireless-headphones-bluetooth-headphones/wi-1000x)
+- [Sofle v2.1 RGB w/ Helios](./sofle-helios.md)
