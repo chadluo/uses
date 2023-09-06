@@ -1,6 +1,8 @@
+# Sofle v2.1 RGB w/ Helios
+
 ## Why new keybord
 
-Anyway, impulse purchase. I've been using the [Infinity Ergodox](https://deskthority.net/wiki/Infinity_ErgoDox) (IE;
+Anyway, impulse purchase. I've been using the [Infinity Ergodox](https://deskthority.net/wiki/Infinity_ErgoDox) (_IE_;
 although out of no reason I always remembered it as Ergodox Infinity) for a while and the key between <kbd>j</kbd> and
 <kbd>l</kbd> has failed mutliple times. I thought the switch was at fault and replacing it worked every time until I ran
 out of spare switches. Haven't checked mechanical keyboards for quite some time I'm no longer sure about the switches,
@@ -54,6 +56,10 @@ I checked some tutorials and found this procedure works well for these 2-feet SM
 3. Solder the other foot.
 
 You can do this in batches.
+
+You can also refer to the [Reviung34 build guide](https://reviung.com/build-guide/724/) or other Reviung build guides
+for microcontrollers, diodes, LEDs and hotswap sockets. Although they are different keyboards, these components are the
+same and the guide comes with pictures and detailed instructions.
 
 ### Microcontroller
 
