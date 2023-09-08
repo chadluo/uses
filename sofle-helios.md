@@ -1,5 +1,7 @@
 # Sofle v2.1 RGB w/ Helios
 
+[page history](https://github.com/chadluo/uses/commits/main/sofle-helios.md)
+
 ## Why new keybord
 
 Anyway, impulse purchase. I've been using the [Infinity Ergodox](https://deskthority.net/wiki/Infinity_ErgoDox) (_IE_;
