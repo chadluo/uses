@@ -105,7 +105,7 @@ To properly manage your layout and firmware it's probably better to follow the g
 your own branch. You can sync the main branch from upstream and merge it to your branch to keep up with upstream changes
 without breaking your own. Most of your changes should be only within files at `keyboards/sofle/keymaps/[your key map]`.
 
-# Miryoku
+## Miryoku
 
 Docs can be found at both [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
 and [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku).
