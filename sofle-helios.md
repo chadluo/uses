@@ -59,7 +59,7 @@ I checked some tutorials and found this procedure works well for these 2-feet SM
 
 You can do this in batches.
 
-You can also refer to the [Reviung34 build guide](https://reviung.com/build-guide/724/) or other Reviung build guides
+You can also refer to the [Reviung41 build guide](https://reviung.com/build-guide/391/) or other Reviung build guides
 for microcontrollers, diodes, LEDs and hotswap sockets. Although they are different keyboards, these components are the
 same and the guide comes with pictures and detailed instructions.
 
