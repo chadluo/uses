@@ -104,3 +104,14 @@ Working with QMK, to create a firmware file:
 To properly manage your layout and firmware it's probably better to follow the guide to create your own fork and create
 your own branch. You can sync the main branch from upstream and merge it to your branch to keep up with upstream changes
 without breaking your own. Most of your changes should be only within files at `keyboards/sofle/keymaps/[your key map]`.
+
+# Miryoku
+
+Docs can be found at both [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
+and [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku).
+
+It's available to build Miryoku directly from the main qmk repo, running `qmk compile -kb sofle -km
+manna-harbour_miryoku -e CONVERT_TO=helios` and collect the firmware from the same location, but some config including
+base alpha layout will also be nice to have. For ease of management, edit
+[manna-harbour_miryoku/config.h](https://github.com/qmk/qmk_firmware/blob/master/keyboards/sofle/keymaps/manna-harbour_miryoku/config.h)
+or add a `rules.mk` in the same directory for relevant configs.
